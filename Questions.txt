@@ -1,0 +1,3 @@
+ Joel Rojas # HW1 
+Group Members: Joel Rojas, Alana Knights, Kyungwhan Cho
+Question 4: Another Interesting Thing I learned from the data was the Median Househould size in New York was: 3.000, this suprised me as i would have assumed it was larger. I will be interested in finding out the most common compositons of familys.
